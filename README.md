@@ -9,7 +9,7 @@ game:GetService("VirtualUser"):ClickButton2(Vector2.new())
 end)
 
 -- ===== CONFIG =====
-_G.main  = {"qaef56przf55", "ixoe96uosp21", "tdll37dwbm11", "dciouxxv6477", "hgca64abqt56", "shyf02vfkq94", "fvhphqfe5773", "btmtplsc8632", "hhzp76qotz71"}
+_G.main  = {"qaef56przf55", "ixoe96uosp21", "tdll37dwbm11", "dciouxxv6477", "hgca64abqt56", "shyf02vfkq94", "fvhphqfe5773", "btmtplsc8632", "hhzp76qotz71", "fzdcyplf2717", "nwxgioou1906", "egvp94melb17"}
 _G.alt   = {"wasd", "wdsa", "wads", "wasd", "wasd", "asd"}
 _G.guard = {"wdsa"}
 -- ==================
