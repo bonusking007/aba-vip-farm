@@ -10,7 +10,7 @@ end)
 
 -- ===== CONFIG =====
 _G.main  = {"wtob98mrlh28", "dyfj62krto65", "dupl86dxdx85", "ifbmusxc3266", "upwotffs5068", "upvzteid7675", "fvhphqfe5773", "btmtplsc8632", "hhzp76qotz71", "kesq61fpsf00", "zbdu85wvbq31", "mvctwdqr5800"}
-_G.alt   = {"wasd", "wdsa", "wads", "wasd", "wasd", "asd"}
+_G.alt   = {"kmoymqhp5295", "wdsa", "wads", "wasd", "wasd", "asd"}
 _G.guard = {"wdsa"}
 -- ==================
 
